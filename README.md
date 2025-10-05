@@ -1,0 +1,2 @@
+# CS367AI
+AI LAB Codes
